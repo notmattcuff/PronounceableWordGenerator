@@ -1,0 +1,11 @@
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/bin/Debug/netcoreapp2.1/Words.deps.json
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/bin/Debug/netcoreapp2.1/Words.runtimeconfig.json
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/bin/Debug/netcoreapp2.1/Words.runtimeconfig.dev.json
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/bin/Debug/netcoreapp2.1/Words.dll
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/bin/Debug/netcoreapp2.1/Words.pdb
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/obj/Debug/netcoreapp2.1/Words.csprojAssemblyReference.cache
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/obj/Debug/netcoreapp2.1/Words.csproj.CoreCompileInputs.cache
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/obj/Debug/netcoreapp2.1/Words.AssemblyInfoInputs.cache
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/obj/Debug/netcoreapp2.1/Words.AssemblyInfo.cs
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/obj/Debug/netcoreapp2.1/Words.dll
+/Users/matthewcuff/Documents/GitHub/PronounceableWordGenerator/obj/Debug/netcoreapp2.1/Words.pdb
